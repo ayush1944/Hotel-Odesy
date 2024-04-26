@@ -5,6 +5,7 @@
 // spt.forEach(function(elem){
 //     clutter += `<span>${elem}</span>`
 // });
+
 // document.querySelector("#firsth1").innerHTML = clutter
 
 
